@@ -1,0 +1,1 @@
+(self.legacyJsonp=self.legacyJsonp||[]).push([["10011"],{786820:function(n,_,s){"use strict";_.Z=(0,s(67287).Z)("/ideas")},316700:function(n,_,s){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/ideas",function(){return s(786820).Z}])}},function(n){n.O(0,["25418","32467","78523"],function(){return n(n.s=316700)}),n.O()}]);
